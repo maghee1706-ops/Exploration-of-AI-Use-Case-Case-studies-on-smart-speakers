@@ -1,11 +1,11 @@
 # Exploration-of-AI-Use-Case-Case-studies-on-smart-speakers
 Exploration of AI Use Cases: Case Studies on Smart Speakers
 
-#AIM
+# AIM
 
 To study the application of Artificial Intelligence in smart speakers and understand how AI technologies such as Natural Language Processing (NLP), Speech Recognition, Machine Learning, and Voice Assistant technology are used to provide intelligent services.
 
-#THEORY
+# THEORY
 
 Smart speakers are AI-powered devices that respond to voice commands and perform tasks such as playing music, answering questions, setting alarms, and controlling smart home appliances.
 
@@ -31,7 +31,7 @@ The working principle of an AI-powered smart speaker involves the following step
 6. Response Generation: The system prepares an appropriate response.
 7. Voice Output: Text-to-speech technology converts the response into audio, which the speaker plays to the user.
 
-Block Diagram
+# Block Diagram
 
        User Voice Command
                 |
@@ -79,6 +79,6 @@ Applications
 - Accessibility support
 - Smart home device management
 
-#RESULT
+# RESULT
 
 The study demonstrates how Artificial Intelligence enables smart speakers to recognize speech, understand user commands, process requests, and generate voice responses. Speech recognition, Natural Language Processing, Machine Learning, and Text-to-Speech technologies work together to provide convenient and intelligent voice-based services.
