@@ -31,30 +31,6 @@ The working principle of an AI-powered smart speaker involves the following step
 6. Response Generation: The system prepares an appropriate response.
 7. Voice Output: Text-to-speech technology converts the response into audio, which the speaker plays to the user.
 
-# Block Diagram
-
-       User Voice Command
-                |
-                v
-        Wake Word Detection
-                |
-                v
-        Speech Recognition
-                |
-                v
-          NLP Processing
-                |
-                v
-        Request Processing
-                |
-                v
-        Response Generation
-                |
-                v
-          Text-to-Speech
-                |
-                v
-         Speaker Voice Output
 
 AI Case Studies
 
