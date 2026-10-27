@@ -19,7 +19,7 @@ The major AI technologies used in smart speakers are:
 - Voice Assistant Technology: Processes requests and provides suitable responses.
 - Text-to-Speech (TTS): Converts the generated response into spoken audio.
 
-#WORKING PRINCIPLE
+# WORKING PRINCIPLE
 
 The working principle of an AI-powered smart speaker involves the following steps:
 
